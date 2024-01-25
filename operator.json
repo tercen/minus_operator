@@ -1,6 +1,6 @@
 {
   "name": "Minus",
-  "description": "Returns the difference of two values",
+  "description": "Computes the difference of two values.",
   "tags": [
     "arithmetic"
   ],
