@@ -1,8 +1,14 @@
 {
   "name": "Minus",
   "description": "Returns the difference of two values",
-  "tags": ["basic operations", "pamgene"],
-  "authors": ["tercen"],
-  "urls": ["https://github.com/tercen/minus_operator"],
+  "tags": [
+    "arithmetic"
+  ],
+  "authors": [
+    "tercen"
+  ],
+  "urls": [
+    "https://github.com/tercen/minus_operator"
+  ],
   "properties": []
 }
