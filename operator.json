@@ -46,21 +46,11 @@
             "metaFactors": [
               {
                 "kind": "MetaFactor",
-                "name": "Initial value",
+                "name": "Input value",
                 "type": "numeric",
-                "description": "Initial value before subtraction",
+                "description": "Input values for subtraction",
                 "ontologyMapping": "y-axis",
                 "crosstabMapping": "y",
-                "cardinality": "1",
-                "factors": []
-              },
-              {
-                "kind": "MetaFactor",
-                "name": "Subtrahend",
-                "type": "numeric",
-                "description": "Value to subtract from the initial value",
-                "ontologyMapping": "x-axis",
-                "crosstabMapping": "x",
                 "cardinality": "1",
                 "factors": []
               }
