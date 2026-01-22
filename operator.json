@@ -49,7 +49,7 @@
                 "name": "Input value",
                 "type": "numeric",
                 "description": "Input values for subtraction",
-                "ontologyMapping": "y-axis",
+                "ontologyMapping": "measurement",
                 "crosstabMapping": "y",
                 "cardinality": "1",
                 "factors": []
