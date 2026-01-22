@@ -1,0 +1,20 @@
+{
+  "outputSpecs": [{
+    "kind": "OperatorJoinSpec",
+    "joinOperators": [{
+      "kind": "JoinOperator",
+      "joinType": "left",
+      "leftPair": {
+        "kind": "ColumnPair",
+        "lColumns": ["Variable", "Observation identifier"],
+        "rColumns": ["Variable", "Observation identifier"]
+      },
+      "rightRelation": {
+        "kind": "TableRelation",
+        "attributes": [
+          {"kind": "Attribute", "name": "minus", "type": "double"}
+        ]
+      }
+    }]
+  }]
+}
